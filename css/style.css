@@ -32,6 +32,10 @@ footer{
     font-size: 25px;
 }
 
+.titulo-sobre{
+    margin-bottom: -40px;
+}
+
 nav, .links-menu{
     display: flex;
     flex-direction: row;
@@ -231,6 +235,10 @@ p.text-longo, .text-noivos{
     .text-noivos{
         margin-bottom: -30px;
         padding-top: 20px;
+    }
+    .titulo-sobre{
+        margin-bottom: -20px;
+        margin-top: 40px;
     }
 }
 
